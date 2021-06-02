@@ -1,0 +1,31 @@
+Download opencv, mediapipe, pynput and PyUserInput (Use pip !)
+
+Step 1
+
+Create a function which will open an image and display it.
+
+Step 2
+
+Create a function which will open your camera and display it.
+
+Step 3
+
+Now in the same function, detect your hand and display his position
+(For this you'll need mediapipe)
+
+Step 4
+
+Draw on your hand a plan.
+
+Step 5
+
+Now get one of those positions because it'll be useful !
+
+Step 6
+
+According to the position you chose, make the mouse cursor follow it.
+(Use Pymouse)
+
+Step 7
+
+Now you have to be able to click on a button using your hand. Use the method you wish !
