@@ -29,3 +29,7 @@ According to the position you chose, make the mouse cursor follow it.
 Step 7
 
 Now you have to be able to click on a button using your hand. Use the method you wish !
+
+Bonus
+
+If you are already done, you can try do draw lines on your hand and to reverse the x position of the mouse !
